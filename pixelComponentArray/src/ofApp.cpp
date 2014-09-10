@@ -25,6 +25,7 @@ void ofApp::setup(){
         }
     }
     
+     //remember to update the image buffer before drawing!!!!
     image.update();
 }
 
